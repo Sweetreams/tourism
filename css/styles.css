@@ -1931,6 +1931,15 @@ a:hover.back-to-top {
 }
 
 @media (width < 768px) {
+	.slick-prev .slick-arrow{
+		display: none;
+	}
+	.map-text{
+		display: none;
+	}
+	.map-title{
+		display: none;
+	}
 	h1{
 		left: 0px !important;
 	}
