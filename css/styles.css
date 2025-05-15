@@ -1930,12 +1930,15 @@ a:hover.back-to-top {
 	margin-top: 1.75rem;
 }
 
+@media (width < 768px) {
+	h1{
+		left: 0px !important;
+	}
+}
 
-/*****************************/
-/*     21. Media Queries     */
-/*****************************/
-/* Min-width width 768px */
 @media (min-width: 768px) {
+
+	
 
 	/* General Styles */
 	.p-heading {
@@ -2374,6 +2377,7 @@ a:hover.back-to-top {
 
 /* Min-width width 1200px */
 @media (min-width: 1200px) {
+
 
 	/* General Styles */
 	.p-heading {
