@@ -1890,6 +1890,14 @@ a:hover.back-to-top {
 
 @media (width < 768px) {
 
+	h6.card-desc{
+		margin-bottom: 20px !important;
+	}
+
+	.intitle{
+		margin-bottom: 20px !important;
+	}
+
 	.intitle, .card-desc {
 		padding: 0px !important;
 		text-align: center;
