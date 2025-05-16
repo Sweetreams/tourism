@@ -1890,6 +1890,11 @@ a:hover.back-to-top {
 
 @media (width < 768px) {
 
+	.intitle, .card-desc {
+		padding: 0px !important;
+		text-align: center;
+	}
+
 	.map-text {
 		display: none;
 	}
