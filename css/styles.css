@@ -1905,6 +1905,7 @@ a:hover.back-to-top {
 
 	h1 {
 		left: 0px !important;
+		word-break: break-all;
 	}
 }
 
