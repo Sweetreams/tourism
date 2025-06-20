@@ -1887,8 +1887,26 @@ a:hover.back-to-top {
 }
 
 
-
 @media (width < 768px) {
+
+	.asdasd{
+		display: flex;
+		align-items: center;
+	}
+
+	.asdasdasd{
+		padding-left: 20px;	
+		padding-right: 20px;
+	}
+
+	.asdasdasdasd{
+		margin-left: 0px !important;
+		margin-right: 0px !important;
+	}
+
+	.asdasd > a{
+		margin-left: 0px !important;
+	}
 
 	h6.card-desc{
 		margin-bottom: 20px !important;
